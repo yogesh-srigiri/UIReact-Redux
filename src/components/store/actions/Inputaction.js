@@ -1,4 +1,4 @@
-import InputModel from "../../models/input";
+
 
 export const ADD_INPUT = 'ADD_INPUT';
 
